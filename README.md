@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  Titre du projet
 Détection de Fraudes Bancaires par Ontologie, Règles SWRL et Raisonnement Python
 
@@ -168,3 +169,6 @@ Pr. CHEKRY Abderrahman
 Université Cadi Ayyad – EST Safi  
 🎓 Master Science des Données Analytiques (2024–2025)
 
+=======
+# Hybrid-Reasoning-for-Bank-Fraud-Detection-with-RDF-Ontology-Conditional-Python-and-SPARQL
+>>>>>>> c17ab99017054a70931a8280748c6bdb854ece7a
