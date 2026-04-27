@@ -4,16 +4,12 @@
 
 ## Research Tags
 
-| Category | Value |
-|----------|-------|
-| Paper | Hybrid Reasoning for Fraud Detection |
-| Model | Ontology + Rule-Based Hybrid System |
-| Framework | Owlready2 + SPARQL + Streamlit |
-| Dataset | Simulated Banking Transactions |
-| Task | Fraud Detection / Classification / Knowledge Reasoning |
-| Domain | Financial Security / Semantic Web / AI Systems |
-| License | Academic Use Only |
-
+[![Paper](https://img.shields.io/badge/Paper-Available-red)](#)
+[![Model](https://img.shields.io/badge/Model-Ontology%20%2B%20Rule--Based-blue)]
+[![Dataset](https://img.shields.io/badge/Dataset-Simulated%20Banking%20Data-green)]
+[![Framework](https://img.shields.io/badge/Framework-Owlready2%20%2B%20SPARQL%20%2B%20Streamlit-orange)]
+[![Domain](https://img.shields.io/badge/Domain-Financial%20Security-lightgrey)]
+[![License](https://img.shields.io/badge/License-Academic%20Use%20Only-yellow)]
 ---
 
 ## Abstract
